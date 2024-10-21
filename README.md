@@ -1,2 +1,5 @@
-# ai-assistant-chatbot
-This code showcases the implementation of a Generative AI chatbot leveraging Gemini Pro 1.5 through the Google AI studio.
+# coding-money-chatbot
+## Installation
+1. npm install
+2. create .env file and add your API key as:
+     API_KEY="Paste API Key here"
