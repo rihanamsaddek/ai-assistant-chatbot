@@ -1,26 +1,26 @@
 
 1. Set Up Your Environment:
 
-○ Download and install Node.js.
-○ Download and install an IDE like Visual Studio Code.
-○ Download the code from this GitHub repository:
+1. Download and install Node.js.
+2.  Download and install an IDE like Visual Studio Code.
+3. Download the code from this GitHub repository:
 hps://github.com/rihanamsaddek/ai-assistant-chatbot (Click "Code" >
 "Download ZIP").
-○ Unzip the downloaded folder to your desired development directory.
-○ Obtain an API key from hps://aistudio.google.com/ and store it securely.
+4. Unzip the downloaded folder to your desired development directory.
+5. Obtain an API key from hps://aistudio.google.com/ and store it securely.
 
 2. Configure the Chatbot:
-○ Open the code folder in your IDE.
-○ Create a new le named .env in the root of your project directory.
-○ Add the following line to the .env le, replacing "Paste API Key here" with your
+1. Open the code folder in your IDE.
+2. Create a new le named .env in the root of your project directory.
+3. Add the following line to the .env le, replacing "Paste API Key here" with your
 actual API key: API_KEY="Paste API Key here"
 
 3. Run the Chatbot:
-○ Open your IDE's terminal.
-○ Navigate to your project directory.
-○ Run the command npm install to install the necessary dependencies.
-○ Run the command node server.js to start the chatbot server.
-○ Open a web browser and go to hp://localhost:3000/ to access the chatbot.
+1. Open your IDE's terminal.
+2. Navigate to your project directory.
+3. Run the command npm install to install the necessary dependencies.
+4. Run the command node server.js to start the chatbot server.
+5. Open a web browser and go to hp://localhost:3000/ to access the chatbot.
 
 4. Customize the Chatbot : To improve or customize the chatbot's responses, modify
 the prompt within the history and role sections of the server.js le. Save the changes
